@@ -11,4 +11,4 @@ Learnings
 
 [DEMO](https://gnw-digitalmarketing-landing-page.netlify.app/)
 
-![simple-badge](https://img.shields.io/badge/HTML-CSS-blue)
+![simple-badge](https://img.shields.io/badge/HTML-CSS-yellowgreen)
